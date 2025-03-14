@@ -1,0 +1,39 @@
+.eventin-passource-settings {
+    margin: 20px 0;
+}
+
+.eventin-passource-settings .form-table th {
+    width: 250px;
+}
+
+.eventin-passource-settings .form-table td input[type="text"] {
+    width: 400px;
+}
+
+.eventin-passource-settings .description {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.eventin-passource-api-status {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-left: 4px solid #ccc;
+}
+
+.eventin-passource-api-status.success {
+    border-color: #46b450;
+    background-color: #ecf7ed;
+}
+
+.eventin-passource-api-status.error {
+    border-color: #dc3232;
+    background-color: #fbeaea;
+}
+
+.eventin-passource-api-status.warning {
+    border-color: #ffb900;
+    background-color: #fff8e5;
+}
